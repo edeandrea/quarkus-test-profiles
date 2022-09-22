@@ -1,0 +1,2 @@
+INSERT INTO fruits(id, name, description) VALUES (nextval('hibernate_sequence'), 'Apple', 'Crisp fruit');
+INSERT INTO fruits(id, name, description) VALUES (nextval('hibernate_sequence'), 'Pear', 'Juicy fruit');
